@@ -13,7 +13,7 @@ The project focuses on summarizing and critically reviewing the research paper: 
 - **Paper Title:** Real-Time Parking Space Detection and Management with Artificial Intelligence and Deep Learning System
 - **Authors:** Shweta Shukla, Rishabh Gupta, Sarthik Garg, Samarpan Harit, Rijwan Khan
 - **Publication:** Transforming Management with AI, Big-Data, and IoT (Springer, 2022)
-- **DOI/Link:** [Springer Link](https://link.springer.com/)
+- **DOI/Link:** [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-86749-2_7)
 
 ## 🔍 Key Concepts Analyzed
 
